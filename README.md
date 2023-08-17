@@ -59,24 +59,16 @@
 
 ## 📈 GitHub Stats
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=qoucname2202" height="185" alt="languages graph" width="100%" />
-      <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=qoucname2202" height="150" alt="stats graph" width="100%"/>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
 </br>
-
-## 📈 GitHub Stats
-
+<div  align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="dev" width="40%"/>
+</div>
+</br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=qoucname2202" alt="languages graph" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=qoucname2202" height="150" alt="stats graph" heigh="150"/>
+</div>
+</br>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qoucname2202&" alt="qoucname2202" />
 </div>
